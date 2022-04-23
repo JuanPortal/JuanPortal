@@ -19,5 +19,8 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanportal)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanportal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 Currently learning React
+- 📫 How to reach me: juanportalg@gmail.com
+- 😄 Pronouns: he/him
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanportal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
