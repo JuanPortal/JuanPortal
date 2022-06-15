@@ -27,7 +27,7 @@
 <li><a href='https://github.com/JuanPortal/Countdown-Website'>Countdown</a></li>
 
 <h3>Discord Bots</h3>
-<li><a href='https://github.com/JuanPortal/DiscordBot-Cathy'>Cathy</a></li>
+<li><a href='https://github.com/JuanPortal/Cathy'>Cathy</a></li>
 <li><a href='https://github.com/JuanPortal/DiscordBot-RAE'>RAE</a></li>
 <li><a href='https://github.com/JuanPortal/DiscordBot-Countdown'>Countdown</a></li>
 <li><a href='https://github.com/JuanPortal/DiscordBot-Melconchita'>Melconchita</a></li>
