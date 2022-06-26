@@ -20,6 +20,7 @@
 
 <h3>Websites</h3>
 <li><a href='https://github.com/JuanPortal/Pokedex'>Pokédex React</a></li>
+<li><a href='https://github.com/JuanPortal/GIF-App'>GIF App</a></li>
 <li><a href='https://github.com/JuanPortal/Website'>Discord Bots</a></li>
 <li><a href='https://github.com/JuanPortal/TrickyQuestion'>Tricky Question</a></li>
 <li><a href='https://github.com/JuanPortal/Calculator-Website'>Calculator</a></li>
