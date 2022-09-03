@@ -7,6 +7,7 @@
 - 💻 Currently learning React
 - 📫 How to reach me: juanportalg@gmail.com
 - 👦 Pronouns: he/him
+- 🥋 Faixa Azul BJJ
 - 💪🏽 Fun fact: Once I bench pressed 100 kg
 
 <h2>Say hi</h2>
