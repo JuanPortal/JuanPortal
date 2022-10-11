@@ -20,6 +20,7 @@
 <h2>Projects</h2>
 
 <h3>Websites</h3>
+<li><a href='https://github.com/JuanPortal/LaGranjaBJJ'>La Granja BJJ</a></li>
 <li><a href='https://github.com/JuanPortal/Pokedex'>Pokédex React</a></li>
 <li><a href='https://github.com/JuanPortal/GIF-App'>GIF App</a></li>
 <li><a href='https://github.com/JuanPortal/Website'>Discord Bots</a></li>
