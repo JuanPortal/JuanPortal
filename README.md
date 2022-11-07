@@ -25,9 +25,18 @@
 <br>
 
 <h2>Say hi</h2>
-<a href="https://twitter.com/JuanPortalG" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
-<a href="https://www.linkedin.com/in/juanportal" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
-<a href="https://www.instagram.com/juanportalg/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
+
+<a href="https://www.linkedin.com/in/juanportal" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%ff5851db.svg?color=0072B1&style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://twitter.com/JuanPortalG" target="_blank">
+  <img src="https://img.shields.io/badge/twitter-%ff5851db.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/juanportalg/" target="_blank">
+  <img src="https://img.shields.io/badge/instagram-%bc2a8d.svg?color=BC2A8D&style=for-the-badge&logo=instagram&logoColor=white" style="margin-bottom: 5px;" />
+</a>
 
 <br>
 
