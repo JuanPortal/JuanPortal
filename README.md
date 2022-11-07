@@ -10,6 +10,20 @@
 - 🥋 Faixa Azul BJJ
 - 💪🏽 Fun fact: Once I bench pressed 120 kg
 
+<br>
+
+<h2>Technologies</h2>
+
+<img align=“left” alt=“HTML5” width=“6px” src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style=“padding-right:10px;” />
+<img align=“left” alt=“CSS3” width=“26px” src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style=“padding-right:10px;” />
+<img align=“left” alt=“JavaScript” width=“26px” src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style=“padding-right:10px;” />
+<img align=“left” alt=“React” width=“26px” src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style=“padding-right:10px;” />
+<img align=“left” alt=“Pandas” width=“26px” src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style=“padding-right:10px;” />
+<img align=“left” alt=“Python” width=“26px” src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style=“padding-right:10px;” />
+<img align=“left” alt=“Boostrap” width=“26px” src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style=“padding-right:10px;”/>
+
+<br>
+
 <h2>Say hi</h2>
 <a href="https://twitter.com/JuanPortalG" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
 <a href="https://www.linkedin.com/in/juanportal" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
