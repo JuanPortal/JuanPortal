@@ -6,10 +6,10 @@
 
 - 💼 Check my portfolio! http://juanportalg.com
 - 💻 Currently learning React
-- 📫 How to reach me: juanportalg@gmail.com
 - 👦 Pronouns: he/him
 - 🥋 Faixa Azul BJJ
 - 💪🏽 Fun fact: Once I bench pressed 120 kg
+- 📫 How to reach me: juanportalg@gmail.com
 
 <br>
 
@@ -45,15 +45,12 @@
 
 <h3>Websites</h3>
 <li><a href='https://github.com/JuanPortal/Portfolio'>Portfolio</a></li>
+<li><a href='https://github.com/JuanPortal/PKMarket'>PKMarket</a></li>
+<li><a href='https://github.com/JuanPortal/JaytheHandyman'>Jay the Handyman</a></li>
 <li><a href='https://github.com/JuanPortal/LaGranjaBJJ'>La Granja BJJ</a></li>
-<li><a href='https://github.com/JuanPortal/Pokedex'>Pokédex React</a></li>
-<li><a href='https://github.com/JuanPortal/GIF-App'>GIF App</a></li>
 <li><a href='https://github.com/JuanPortal/Website'>Discord Bots</a></li>
 <li><a href='https://github.com/JuanPortal/TrickyQuestion'>Tricky Question</a></li>
-<li><a href='https://github.com/JuanPortal/Calculator-Website'>Calculator</a></li>
-<li><a href='https://github.com/JuanPortal/Weather-App'>Weather App</a></li>
-<li><a href='https://github.com/JuanPortal/Learning-Bootstrap'>Bootstrap</a></li>
-<li><a href='https://github.com/JuanPortal/Countdown-Website'>Countdown</a></li>
+<li><a href='https://github.com/JuanPortal/Pokedex'>Pokédex React</a></li>
 
 <h3>Discord Bots</h3>
 <li><a href='https://github.com/JuanPortal/Cathy'>Cathy</a></li>
@@ -64,6 +61,13 @@
 <h3>Diverse</h3>
 <li><a href='https://github.com/JuanPortal/ATM'>ATM</a></li>
 <li><a href='https://github.com/JuanPortal/ProjectEuler'>Project Euler</a></li>
+
+<h3>Basics</h3>
+<li><a href='https://github.com/JuanPortal/Learning-Bootstrap'>Bootstrap</a></li>
+<li><a href='https://github.com/JuanPortal/GIF-App'>GIF App</a></li>
+<li><a href='https://github.com/JuanPortal/Calculator-Website'>Calculator</a></li>
+<li><a href='https://github.com/JuanPortal/Weather-App'>Weather App</a></li>
+<li><a href='https://github.com/JuanPortal/Countdown-Website'>Countdown</a></li>
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanportal)](https://github.com/anuraghazra/github-readme-stats)
