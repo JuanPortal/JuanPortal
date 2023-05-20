@@ -63,7 +63,7 @@
 <li><a href='https://github.com/JuanPortal/ProjectEuler'>Project Euler</a></li>
 
 <h3>Basics</h3>
-<li><a href='https://github.com/JuanPortal/Learning-Bootstrap'>Bootstrap</a></li>
+<li><a href='https://github.com/JuanPortal/Learning-Bootstrap'>Learning Bootstrap</a></li>
 <li><a href='https://github.com/JuanPortal/GIF-App'>GIF App</a></li>
 <li><a href='https://github.com/JuanPortal/Calculator-Website'>Calculator</a></li>
 <li><a href='https://github.com/JuanPortal/Weather-App'>Weather App</a></li>
