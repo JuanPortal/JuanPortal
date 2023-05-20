@@ -51,7 +51,6 @@
 <li><a href='https://github.com/JuanPortal/LaGranjaBJJ'>La Granja BJJ</a></li>
 <li><a href='https://github.com/JuanPortal/Website'>Discord Bots</a></li>
 <li><a href='https://github.com/JuanPortal/TrickyQuestion'>Tricky Question</a></li>
-<li><a href='https://github.com/JuanPortal/Pokedex'>Pokédex React</a></li>
 
 <h3>Discord Bots</h3>
 <li><a href='https://github.com/JuanPortal/Cathy'>Cathy</a></li>
