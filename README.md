@@ -64,10 +64,10 @@
 
 <h3>Basics</h3>
 <li><a href='https://github.com/JuanPortal/Learning-Bootstrap'>Learning Bootstrap</a></li>
-<li><a href='https://github.com/JuanPortal/GIF-App'>GIF App</a></li>
-<li><a href='https://github.com/JuanPortal/Calculator-Website'>Calculator</a></li>
-<li><a href='https://github.com/JuanPortal/Weather-App'>Weather App</a></li>
-<li><a href='https://github.com/JuanPortal/Countdown-Website'>Countdown</a></li>
+<li><a href='https://github.com/JuanPortal/GIF-Web'>GIF Website</a></li>
+<li><a href='https://github.com/JuanPortal/Calculator-Web'>Calculator Website</a></li>
+<li><a href='https://github.com/JuanPortal/Weather-Web'>Weather Website</a></li>
+<li><a href='https://github.com/JuanPortal/Countdown-Web'>Countdown Website</a></li>
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanportal)](https://github.com/anuraghazra/github-readme-stats)
