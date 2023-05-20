@@ -55,8 +55,8 @@
 <h3>Discord Bots</h3>
 <li><a href='https://github.com/JuanPortal/Cathy'>Cathy</a></li>
 <li><a href='https://github.com/JuanPortal/DiscordBot-RAE'>RAE</a></li>
-<li><a href='https://github.com/JuanPortal/DiscordBot-Countdown'>Countdown</a></li>
 <li><a href='https://github.com/JuanPortal/DiscordBot-Melconchita'>Melconchita</a></li>
+<li><a href='https://github.com/JuanPortal/DiscordBot-Countdown'>Countdown</a></li>
 
 <h3>Diverse</h3>
 <li><a href='https://github.com/JuanPortal/ATM'>ATM</a></li>
@@ -64,6 +64,7 @@
 
 <h3>Basics</h3>
 <li><a href='https://github.com/JuanPortal/Learning-Bootstrap'>Learning Bootstrap</a></li>
+<li><a href='https://github.com/JuanPortal/Pokedex'>Pokédex Website</a></li>
 <li><a href='https://github.com/JuanPortal/GIF-Web'>GIF Website</a></li>
 <li><a href='https://github.com/JuanPortal/Calculator-Web'>Calculator Website</a></li>
 <li><a href='https://github.com/JuanPortal/Weather-Web'>Weather Website</a></li>
