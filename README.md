@@ -4,6 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/juanportal/juanportal/main/cat.gif" width="200">
 
+- 💼 Check my portfolio! http://juanportalg.com
 - 💻 Currently learning React
 - 📫 How to reach me: juanportalg@gmail.com
 - 👦 Pronouns: he/him
