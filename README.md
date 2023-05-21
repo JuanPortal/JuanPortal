@@ -47,7 +47,7 @@
 <h3>Websites</h3>
 <li><a href='https://github.com/JuanPortal/Portfolio'>Portfolio</a></li>
 <li><a href='https://github.com/JuanPortal/PKMarket'>PKMarket</a></li>
-<li><a href='https://github.com/JuanPortal/JaytheHandyman'>Jay the Handyman</a></li>
+<li><a href='https://github.com/JuanPortal/JaytheHandyman'>Jay the Handyman [in progress]</a></li>
 <li><a href='https://github.com/JuanPortal/LaGranjaBJJ'>La Granja BJJ</a></li>
 <li><a href='https://github.com/JuanPortal/Website'>Discord Bots</a></li>
 <li><a href='https://github.com/JuanPortal/TrickyQuestion'>Tricky Question</a></li>
@@ -59,6 +59,7 @@
 <li><a href='https://github.com/JuanPortal/DiscordBot-Countdown'>Countdown</a></li>
 
 <h3>Diverse</h3>
+<li><a href='https://github.com/JuanPortal/Monopoly-Board'>Monopoly Board</a></li>
 <li><a href='https://github.com/JuanPortal/ATM'>ATM</a></li>
 <li><a href='https://github.com/JuanPortal/ProjectEuler'>Project Euler</a></li>
 
