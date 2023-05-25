@@ -1,11 +1,12 @@
-<h1>Hello there, I'm Portal 👋</h1>
+<h1>Hello there, I'm Juan Portal 👋</h1>
 
 <h2>Welcome to my profile</h2>
 
-<img src="https://raw.githubusercontent.com/juanportal/juanportal/main/cat.gif" width="200">
+<img src="https://raw.githubusercontent.com/juanportal/juanportal/main/cat.gif" width="300">
 
 - 💼 Check my portfolio! http://juanportalg.com
-- 💻 Currently learning React
+- 💻 Currently working on the <a href='https://github.com/JuanPortal/JaytheHandyman'>Jay the Handyman</a> website
+- 🌱 Currently learning React
 - 👦 Pronouns: he/him
 - 🥋 Faixa Azul BJJ
 - 💪🏽 Fun fact: Once I bench pressed 120 kg
@@ -25,6 +26,7 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 <br>
+<br>
 
 <h2>Say hi</h2>
 
@@ -41,13 +43,14 @@
 </a>
 
 <br>
+<br>
 
 <h2>Projects</h2>
 
 <h3>Websites</h3>
 <li><a href='https://github.com/JuanPortal/Portfolio'>Portfolio</a></li>
 <li><a href='https://github.com/JuanPortal/PKMarket'>PKMarket</a></li>
-<li><a href='https://github.com/JuanPortal/JaytheHandyman'>Jay the Handyman [in progress]</a></li>
+<li><a href='https://github.com/JuanPortal/JaytheHandyman'>Jay the Handyman</a> [in progress]</li>
 <li><a href='https://github.com/JuanPortal/LaGranjaBJJ'>La Granja BJJ</a></li>
 <li><a href='https://github.com/JuanPortal/Website'>Discord Bots</a></li>
 <li><a href='https://github.com/JuanPortal/TrickyQuestion'>Tricky Question</a></li>
@@ -74,6 +77,8 @@
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanportal)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+<br>
 
 <h2>GitHub Profile Stats</h2>
 
