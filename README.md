@@ -7,7 +7,7 @@
 - 💼 Check my portfolio! http://juanportalg.com
 - 💻 Currently working on the <a href='https://github.com/JuanPortal/JaytheHandyman'>Jay the Handyman</a> website
 - 🌱 Currently learning React
-- 👦 Pronouns: he/him
+- 👦 Pronouns: he / him
 - 🥋 Faixa Azul BJJ
 - 💪🏽 Fun fact: Once I bench pressed 120 kg
 - 📫 How to reach me: juanportalg@gmail.com
