@@ -64,6 +64,7 @@
 <h3>Diverse</h3>
 <li><a href='https://github.com/JuanPortal/Monopoly-Board'>Monopoly Board</a></li>
 <li><a href='https://github.com/JuanPortal/ATM'>ATM</a></li>
+<li><a href='https://github.com/JuanPortal/RaspberryPi'>Raspberry Pi Pico</a></li>
 <li><a href='https://github.com/JuanPortal/ProjectEuler'>Project Euler</a></li>
 
 <h3>Basics</h3>
