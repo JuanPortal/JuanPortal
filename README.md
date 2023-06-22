@@ -16,17 +16,15 @@
 
 <h2>Technologies</h2>
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Boostrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-
-<br>
-<br>
+![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=CSS3)
+![Bootsrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=Bootstrap)
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)
+![Numpy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)
+![git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
 
 <h2>Say hi</h2>
 
@@ -75,12 +73,18 @@
 <li><a href='https://github.com/JuanPortal/Weather-Web'>Weather Website</a></li>
 <li><a href='https://github.com/JuanPortal/Countdown-Web'>Countdown Website</a></li>
 
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanportal)](https://github.com/anuraghazra/github-readme-stats)
--->
+
+<!-- <br>
+
+[![Portal's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanportal)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 <br>
 
 <h2>GitHub Profile Stats</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanportal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+<!-- ![](https://komarev.com/ghpvc/?username=your-github-juanportal) -->
