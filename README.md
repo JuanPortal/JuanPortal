@@ -55,8 +55,9 @@
 
 <h3>Discord Bots</h3>
 <li><a href='https://github.com/JuanPortal/Cathy'>Cathy</a></li>
-<li><a href='https://github.com/JuanPortal/DiscordBot-RAE'>RAE</a></li>
-<li><a href='https://github.com/JuanPortal/DiscordBot-Melconchita'>Melconchita</a></li>
+<li><a href='https://github.com/JuanPortal/RAE'>RAE</a></li>
+<li><a href='https://github.com/JuanPortal/Melconchita'>Melconchita</a></li>
+<li><a href='https://github.com/JuanPortal/PSV'>PSV</a></li>
 <li><a href='https://github.com/JuanPortal/DiscordBot-Countdown'>Countdown</a></li>
 
 <h3>Diverse</h3>
