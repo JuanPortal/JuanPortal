@@ -48,17 +48,18 @@
 <h3>Websites</h3>
 <li><a href='https://github.com/JuanPortal/Portfolio'>Portfolio</a></li>
 <li><a href='https://github.com/JuanPortal/PKMarket'>PKMarket</a></li>
+<li><a href='https://github.com/JuanPortal/Proposal'>Business Proposal</a></li>
 <li><a href='https://github.com/JuanPortal/JaytheHandyman'>Jay the Handyman</a> [in progress]</li>
 <li><a href='https://github.com/JuanPortal/TrickyQuestion'>Tricky Question</a></li>
 <li><a href='https://github.com/JuanPortal/LaGranjaBJJ'>La Granja BJJ</a></li>
-<li><a href='https://github.com/JuanPortal/Website'>Discord Bots</a></li>
+<li><a href='https://github.com/JuanPortal/DiscordBots'>Discord Bots</a></li>
 
 <h3>Discord Bots</h3>
 <li><a href='https://github.com/JuanPortal/Cathy'>Cathy</a></li>
 <li><a href='https://github.com/JuanPortal/RAE'>RAE</a></li>
 <li><a href='https://github.com/JuanPortal/Melconchita'>Melconchita</a></li>
 <li><a href='https://github.com/JuanPortal/PSV'>PSV</a></li>
-<li><a href='https://github.com/JuanPortal/DiscordBot-Countdown'>Countdown</a></li>
+<li><a href='https://github.com/JuanPortal/Timer'>Timer</a></li>
 
 <h3>Diverse</h3>
 <li><a href='https://github.com/JuanPortal/Monopoly-Board'>Monopoly Board</a></li>
